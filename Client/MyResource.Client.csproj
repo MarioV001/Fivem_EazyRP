@@ -1,0 +1,19 @@
+<Project Sdk="CitizenFX.Sdk.Client/0.2.3">
+    <ItemGroup>
+        <Compile Include="../Shared/**/*.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Include="..\.editorconfig" Link=".editorconfig" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Interface\NUI\Images\" />
+      <Folder Include="Services\World\" />
+      <Folder Include="Services\Vehicle\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Reference Include="Newtonsoft.Json">
+        <HintPath>..\dependencies\shared\Newtonsoft.Json.dll</HintPath>
+        <Private>True</Private>
+      </Reference>
+    </ItemGroup>
+</Project>

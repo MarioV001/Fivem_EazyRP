@@ -1,0 +1,51 @@
+﻿body {
+    background-color: transparent;
+    font-family:sans-serif;
+}
+.profile-pic {
+    width: 100px;
+    position: absolute;
+    bottom: 50px;
+    right: 30px;
+    opacity: 0.5;
+}
+
+.Welcome {
+    background: rgb(55,55,56);
+    background: linear-gradient(0deg, rgba(55,55,56,1) 0%, rgba(81,92,108,1) 100%);
+
+    border: solid;
+    border-radius: 15px;
+    border-color: #b0c4cb36;
+    border-width: 5px;
+
+    width: 1000px;
+    height: 400px;
+
+    opacity: 0.6;
+    margin: auto;
+    width: 50%;
+    margin-top: 8%;
+    padding: 10px;
+    position: relative;
+}
+
+.Title {
+    text-align:center;
+    width:100%;
+    opacity:1;
+}
+
+.Navigation {
+    position: absolute;
+    height: 40px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.Context {
+    
+}
+.modal-backdrop {
+    background-color: transparent;
+}
