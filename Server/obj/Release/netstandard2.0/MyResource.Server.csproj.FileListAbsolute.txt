@@ -1,12 +1,5 @@
-C:\Users\artha\FiveM-Resource\Server\bin\Release\netstandard2.0\MyResource.Server.deps.json
-C:\Users\artha\FiveM-Resource\Server\bin\Release\netstandard2.0\MyResource.Server.net.dll
-C:\Users\artha\FiveM-Resource\Server\bin\Release\netstandard2.0\MyResource.Server.net.pdb
-C:\Users\artha\FiveM-Resource\Server\bin\Release\netstandard2.0\Newtonsoft.Json.dll
 C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.csproj.AssemblyReference.cache
 C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.AssemblyInfoInputs.cache
 C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.AssemblyInfo.cs
 C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.csproj.CoreCompileInputs.cache
-C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.csproj.CopyComplete
-C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.net.dll
-C:\Users\artha\FiveM-Resource\Server\obj\Release\netstandard2.0\MyResource.Server.net.pdb

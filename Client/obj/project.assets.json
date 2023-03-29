@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.5.2": {
-      "CitizenFX.Core.Client/1.0.6362": {
+      "CitizenFX.Core.Client/1.0.6364": {
         "type": "package",
         "compile": {
           "lib/net45/CitizenFX.Core.Client.dll": {
@@ -14,27 +14,79 @@
             "related": ".xml"
           }
         }
+      },
+      "JetBrains.Annotations/2022.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net20/JetBrains.Annotations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net20/JetBrains.Annotations.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "JetBrains.Annotations.Portable/10.2.3": {
+        "type": "package"
       }
     }
   },
   "libraries": {
-    "CitizenFX.Core.Client/1.0.6362": {
-      "sha512": "RqKiDSMqmzb0PIauZu7vj4jN7JubWI0eTQE2PlucXE9VgK/lHuYZFb/oqamGiUm9pLHCA7jzvGXnPVab0n2dlw==",
+    "CitizenFX.Core.Client/1.0.6364": {
+      "sha512": "/BuEOCfVs/S9K5r66s0hfEaDzp0NLUgEO9PqJ1rnhzNgbu6hTwXg5zuAP7whk1xceffFwk3BQ0mWPpekczR/cQ==",
       "type": "package",
-      "path": "citizenfx.core.client/1.0.6362",
+      "path": "citizenfx.core.client/1.0.6364",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "citizenfx.core.client.1.0.6362.nupkg.sha512",
+        "citizenfx.core.client.1.0.6364.nupkg.sha512",
         "citizenfx.core.client.nuspec",
         "lib/net45/CitizenFX.Core.Client.dll",
         "lib/net45/CitizenFX.Core.Client.xml"
+      ]
+    },
+    "JetBrains.Annotations/2022.3.1": {
+      "sha512": "11nsS3+lFICGkztVs9PP2NRItxf9fF+qD6xEW/T0YGto52zj07wseUeBdMAU1ah9HNVTDZyRC1u4NWdtJScwhw==",
+      "type": "package",
+      "path": "jetbrains.annotations/2022.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "jetbrains.annotations.2022.3.1.nupkg.sha512",
+        "jetbrains.annotations.nuspec",
+        "lib/net20/JetBrains.Annotations.dll",
+        "lib/net20/JetBrains.Annotations.xml",
+        "lib/netstandard1.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard1.0/JetBrains.Annotations.dll",
+        "lib/netstandard1.0/JetBrains.Annotations.xml",
+        "lib/netstandard2.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard2.0/JetBrains.Annotations.dll",
+        "lib/netstandard2.0/JetBrains.Annotations.xml",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.dll",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.xml"
+      ]
+    },
+    "JetBrains.Annotations.Portable/10.2.3": {
+      "sha512": "5943Lfn1JYB1C33D9Q+PrEQSY9pcjjrrFOipbsAtI41ltEjsYMDV6J9tF2H9QzSb9CKo4Dn04/vl1LMcBmvDjg==",
+      "type": "package",
+      "path": "jetbrains.annotations.portable/10.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/JetBrains.Annotations/JetBrains.Annotations.cs",
+        "jetbrains.annotations.portable.10.2.3.nupkg.sha512",
+        "jetbrains.annotations.portable.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.5.2": [
-      "CitizenFX.Core.Client >= 1.0.*"
+      "CitizenFX.Core.Client >= 1.0.*",
+      "JetBrains.Annotations >= 2022.3.1",
+      "JetBrains.Annotations.Portable >= 10.2.3"
     ]
   },
   "packageFolders": {
@@ -79,6 +131,14 @@
           "CitizenFX.Core.Client": {
             "target": "Package",
             "version": "[1.0.*, )"
+          },
+          "JetBrains.Annotations": {
+            "target": "Package",
+            "version": "[2022.3.1, )"
+          },
+          "JetBrains.Annotations.Portable": {
+            "target": "Package",
+            "version": "[10.2.3, )"
           }
         },
         "downloadDependencies": [

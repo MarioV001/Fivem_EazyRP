@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kpU39tKA8WF6hsAgAy/39tTAsOOdWhZrafv0XcEmLouV8xbIFMTdvkYVEnF4datMLC4Qf9byQ5fBQYLggK1Dsw==",
+  "dgSpecHash": "7dsvV4GtPU9N6w1FPsKihNXNakN0OpJw3F+3YB5fvxAo4gVj6SB6ho3Xash5ASv2O7zO2M929wbQmuyuYm+/HA==",
   "success": true,
   "projectFilePath": "C:\\Users\\artha\\FiveM-Resource\\Client\\MyResource.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\artha\\.nuget\\packages\\citizenfx.core.client\\1.0.6362\\citizenfx.core.client.1.0.6362.nupkg.sha512",
+    "C:\\Users\\artha\\.nuget\\packages\\citizenfx.core.client\\1.0.6364\\citizenfx.core.client.1.0.6364.nupkg.sha512",
+    "C:\\Users\\artha\\.nuget\\packages\\jetbrains.annotations\\2022.3.1\\jetbrains.annotations.2022.3.1.nupkg.sha512",
+    "C:\\Users\\artha\\.nuget\\packages\\jetbrains.annotations.portable\\10.2.3\\jetbrains.annotations.portable.10.2.3.nupkg.sha512",
     "C:\\Users\\artha\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
   ],
   "logs": []

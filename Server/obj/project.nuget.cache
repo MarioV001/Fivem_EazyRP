@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "r1817QSO0LqWw1jOJ9NTnJ9pkxQzNUCrn/5Q9UmkkzF8r8Pfcpvye8Vnk97aU9Um33qqmnDFLi6Jus7c9e4NsQ==",
+  "dgSpecHash": "vaaydB8mvdavCl3vaIf9dj8NaScCZj57TAZzeqrC6MoWD1KxiVzIWUXOGkwtKNNfb0b91rhfFfHHDUFatrRxow==",
   "success": true,
   "projectFilePath": "C:\\Users\\artha\\FiveM-Resource\\Server\\MyResource.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artha\\.nuget\\packages\\citizenfx.core.server\\1.0.6335\\citizenfx.core.server.1.0.6335.nupkg.sha512",
+    "C:\\Users\\artha\\.nuget\\packages\\jetbrains.annotations\\2022.3.1\\jetbrains.annotations.2022.3.1.nupkg.sha512",
     "C:\\Users\\artha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\artha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\artha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\artha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\artha\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

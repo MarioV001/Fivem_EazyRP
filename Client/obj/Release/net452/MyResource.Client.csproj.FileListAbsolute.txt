@@ -1,10 +1,5 @@
-C:\Users\artha\FiveM-Resource\Client\bin\Release\net452\MyResource.Client.net.dll
-C:\Users\artha\FiveM-Resource\Client\bin\Release\net452\CitizenFX.Core.Client.dll
-C:\Users\artha\FiveM-Resource\Client\bin\Release\net452\Newtonsoft.Json.dll
 C:\Users\artha\FiveM-Resource\Client\obj\Release\net452\MyResource.Client.csproj.AssemblyReference.cache
 C:\Users\artha\FiveM-Resource\Client\obj\Release\net452\MyResource.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\artha\FiveM-Resource\Client\obj\Release\net452\MyResource.Client.AssemblyInfoInputs.cache
 C:\Users\artha\FiveM-Resource\Client\obj\Release\net452\MyResource.Client.AssemblyInfo.cs
 C:\Users\artha\FiveM-Resource\Client\obj\Release\net452\MyResource.Client.csproj.CoreCompileInputs.cache
-C:\Users\artha\FiveM-Resource\Client\obj\Release\net452\MyResource.Client.csproj.CopyComplete
-C:\Users\artha\FiveM-Resource\Client\obj\Release\net452\MyResource.Client.net.dll

@@ -1,0 +1,9 @@
+C:\Users\artha\FiveM-Resource\Shared\bin\Release\Shared.dll
+C:\Users\artha\FiveM-Resource\Shared\bin\Release\Shared.pdb
+C:\Users\artha\FiveM-Resource\Shared\bin\Release\JetBrains.Annotations.dll
+C:\Users\artha\FiveM-Resource\Shared\bin\Release\JetBrains.Annotations.xml
+C:\Users\artha\FiveM-Resource\Shared\obj\Release\Shared.csproj.AssemblyReference.cache
+C:\Users\artha\FiveM-Resource\Shared\obj\Release\Shared.csproj.CoreCompileInputs.cache
+C:\Users\artha\FiveM-Resource\Shared\obj\Release\Shared.csproj.CopyComplete
+C:\Users\artha\FiveM-Resource\Shared\obj\Release\Shared.dll
+C:\Users\artha\FiveM-Resource\Shared\obj\Release\Shared.pdb

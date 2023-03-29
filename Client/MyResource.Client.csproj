@@ -7,13 +7,19 @@
     </ItemGroup>
     <ItemGroup>
       <Folder Include="Interface\NUI\Images\" />
+      <Folder Include="Login\" />
       <Folder Include="Services\World\" />
       <Folder Include="Services\Vehicle\" />
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="JetBrains.Annotations" Version="2022.3.1" />
+      <PackageReference Include="JetBrains.Annotations.Portable" Version="10.2.3" />
     </ItemGroup>
     <ItemGroup>
       <Reference Include="Newtonsoft.Json">
         <HintPath>..\dependencies\shared\Newtonsoft.Json.dll</HintPath>
         <Private>True</Private>
       </Reference>
+      <Reference Include="System.ComponentModel.DataAnnotations" />
     </ItemGroup>
 </Project>
